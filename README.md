@@ -16,6 +16,6 @@
 - 📫 How to reach me: sutharsanraj2001@gmail.com
 - 👯 I’m looking to collaborate on Internship and Capstone project.
 
-[![Sutharsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smsraj2001&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sutharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smsraj2001&theme=aura)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smsraj2001&langs_count=5&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smsraj2001&langs_count=5&theme=nightowl)]()
