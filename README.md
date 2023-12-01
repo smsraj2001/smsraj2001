@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on projects and efficient coding.
 - 🌱 I’m currently pursuing B.Tech CS in PES University - RR Campus
 - 📫 How to reach me: sutharsanraj2001@gmail.com
-- 👯 I’m looking to collaborate on Internship and Capstone project.
+- 👯 I’m looking to collaborate on Internship.
 
 [![Sutharsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smsraj2001&theme=aura)]()
 <p>
